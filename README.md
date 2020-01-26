@@ -1,2 +1,2 @@
-# ML-and-Communications-Research
-Public code and a few results for my research in NN applied to communication channels
+# Machine Learning and Communications
+Code files and some results for the Binary asymmetric channel for my research in DNN applied to communication channels.
